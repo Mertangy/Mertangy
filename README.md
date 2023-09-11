@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>PowerShell</b>
+- <b>Exploiting Network based vulnerabilies</b>
   - 
   - [Scanning for SMB Vulnerabilities with enum4linux](https://github.com/mertangy)
 
