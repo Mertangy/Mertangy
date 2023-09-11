@@ -4,7 +4,7 @@
 
 - <b>Exploiting Network based vulnerabilies</b>
   - 
-  - [Scanning for SMB Vulnerabilities with enum4linux](https://github.com/mertangy)
+  - [Scanning for SMB Vulnerabilities with enum4linux](https://github.com/Mertangy/SMB-Vulnerabilities-with-enum4linux)
 
 
 
