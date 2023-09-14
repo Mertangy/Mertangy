@@ -11,6 +11,8 @@
 <h2>📺 Certifications:</h2>
 
 - [Google cyber security certificate](https://coursera.org/share/7ea50ed1f77f3d1137113a4247bdc112)
+- [ISC2 certified cybersecurity](https://www.credly.com/badges/827f92f4-49de-4c20-829e-f5e598387756/public_url)
+
 
 
 <h2> 🤳 Connect with me:</h2>
